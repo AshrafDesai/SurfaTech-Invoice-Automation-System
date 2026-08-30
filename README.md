@@ -1,5 +1,8 @@
 # SurfaTech Invoice Automation System
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/ed8bff62-d5dc-44ab-9dc2-2daf08765189" />
+
+
 A Google Workspace-based invoice automation system built using **Google Forms, Google Sheets, and Google Apps Script** to simplify customer data collection, invoice numbering, calculations, and invoice generation.
 
 ## 📌 Project Overview
